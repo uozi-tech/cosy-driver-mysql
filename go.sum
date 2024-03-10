@@ -1,5 +1,5 @@
-github.com/0xJacky/cosy v0.0.0-20240307032449-9e496e54a2d3 h1:h2XgGMcbnYATvMkDdNU6CGMOwDKDiH0uSQDbrtD6Zqc=
-github.com/0xJacky/cosy v0.0.0-20240307032449-9e496e54a2d3/go.mod h1:Uhqt30A6YrUBKOkl2vnUW3YPaLLDCS8XoygrvK9VANk=
+git.uozi.org/uozi/cosy v0.0.3 h1:jEX0pN6gYvWaldaXb9E7TAKeWLqu000X4twtw+ElE1Q=
+git.uozi.org/uozi/cosy v0.0.3/go.mod h1:7610ZEumAic71ESFBo6vwzpFwTg8XvmFvbfmbMbWY0Y=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-sql-driver/mysql v1.7.0/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=

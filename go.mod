@@ -1,9 +1,9 @@
-module github.com/0xJacky/cosy-driver-mysql
+module git.uozi.org/uozi/cosy-driver-mysql
 
 go 1.22
 
 require (
-	github.com/0xJacky/cosy v0.0.0-20240307032449-9e496e54a2d3
+	git.uozi.org/uozi/cosy v0.0.3
 	gorm.io/driver/mysql v1.5.4
 	gorm.io/gorm v1.25.7
 )
