@@ -2,7 +2,7 @@ package mysql
 
 import (
 	"fmt"
-	"git.uozi.org/uozi/cosy/settings"
+	"github.com/uozi-tech/cosy/settings"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
