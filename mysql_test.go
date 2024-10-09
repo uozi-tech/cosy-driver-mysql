@@ -9,7 +9,7 @@ type DataBase struct {
     User     string
     Password string
     Host     string
-    Port     int
+    Port     uint
     Name     string
 }
 
@@ -25,7 +25,7 @@ func (d *DataBase) GetPassword() string {
     return d.Password
 }
 
-func (d *DataBase) GetPort() int {
+func (d *DataBase) GetPort() uint {
     return d.Port
 }
 

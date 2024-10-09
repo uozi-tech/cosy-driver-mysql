@@ -11,7 +11,7 @@ type DBSettings interface {
     GetUser() string
     GetPassword() string
     GetName() string
-    GetPort() int
+    GetPort() uint
 }
 
 func Open(dbs DBSettings) gorm.Dialector {
